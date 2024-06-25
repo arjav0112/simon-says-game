@@ -25,6 +25,6 @@ Welcome to the classic game of Simon Says! This electronic game tests your memor
 - Inspired by the original Simon game invented by Ralph H. Baer and Howard J. Morrison in 1978.
 
 **Disclaimer:**
-Simon Says is a game of skill and memory.I am not responsible for any frustration caused by forgetting sequences or losing the game. Play at your own risk!
+Simon Says is a game of skill and memory.I am not responsible for any frustration caused by forgetting sequences or losing the game. Play at your own risk!!!
 
 **Enjoy the game and remember, Simon says have fun!**
